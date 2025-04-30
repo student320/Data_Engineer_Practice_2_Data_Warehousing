@@ -92,5 +92,4 @@ WHERE
 ```
 
 
-select count(*) from dtc-de-course-454300.trips_data_all.yellow_trip_data_2024;
 
